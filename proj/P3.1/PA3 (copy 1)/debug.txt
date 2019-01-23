@@ -1,0 +1,567 @@
+The number of objects is 50, and the capacity is 40542.
+objs sart, end, capacity 0 50 40542 
+KRSP -1897021424 
+curlasrow when first alloced -1897816048 
+CLR -1897816048 
+KRSP -1897488368 
+curlasrow when first alloced 34052080 
+CLR 34052080 
+mallocing new pointer 34052080 
+mallocing new pointer 34247072 
+mallocing new pointer 34442064 
+mallocing new pointer 34571440 
+objs sart, end, capacity 0 25 24372 
+KRSP 34052080 
+curlasrow when first alloced 34700816 
+CLR 34700816 
+KRSP 34247072 
+curlasrow when first alloced 34700816 
+CLR 34700816 
+mallocing new pointer 34700816 
+mallocing new pointer 34781824 
+mallocing new pointer 34862832 
+mallocing new pointer 34976848 
+objs sart, end, capacity 0 12 10123 
+KRSP 34700816 
+curlasrow when first alloced 35090864 
+CLR 35090864 
+KRSP 34781824 
+curlasrow when first alloced 35090864 
+CLR 35090864 
+mallocing new pointer 35090864 
+mallocing new pointer 35139632 
+mallocing new pointer 35188400 
+mallocing new pointer 35220656 
+objs sart, end, capacity 0 6 6093 
+KRSP 35090864 
+curlasrow when first alloced 35252912 
+CLR 35252912 
+KRSP 35139632 
+curlasrow when first alloced 35252912 
+CLR 35252912 
+mallocing new pointer 35252912 
+mallocing new pointer 35301680 
+mallocing new pointer 34035040 
+mallocing new pointer 34035072 
+objs sart, end, capacity 0 3 6093 
+KRSP 35252912 
+curlasrow when first alloced 35350448 
+CLR 35350448 
+KRSP 35301680 
+curlasrow when first alloced 35350448 
+CLR 35350448 
+mallocing new pointer 35350448 
+mallocing new pointer 35366640 
+mallocing new pointer 35382832 
+mallocing new pointer 35415424 
+objs sart, end, capacity 0 1 2022 
+objs sart, end, capacity 1 3 4071 
+KRSP 35382832 
+curlasrow when first alloced 35448016 
+CLR 35448016 
+KRSP 35415424 
+curlasrow when first alloced 35448016 
+CLR 35448016 
+mallocing new pointer 35448016 
+mallocing new pointer 35464224 
+mallocing new pointer 35480432 
+mallocing new pointer 35496832 
+objs sart, end, capacity 1 2 2024 
+objs sart, end, capacity 2 3 2047 
+here + 1 3 
+r1c1 35448016 r1c2 35480432 r2c1 35464224 r2c2 35496832 
+here + 0 3 
+r1c1 35350448 r1c2 35382832 r2c1 35366640 r2c2 35415424 
+objs sart, end, capacity 3 6 0 
+KRSP 34035040 
+curlasrow when first alloced 34035104 
+CLR 34035104 
+KRSP 34035072 
+curlasrow when first alloced 34035136 
+CLR 34035136 
+mallocing new pointer 34035136 
+mallocing new pointer 34035104 
+mallocing new pointer 34035168 
+mallocing new pointer 34035200 
+objs sart, end, capacity 3 4 0 
+objs sart, end, capacity 4 6 0 
+KRSP 34035168 
+curlasrow when first alloced 34035232 
+CLR 34035232 
+KRSP 34035200 
+curlasrow when first alloced 34035264 
+CLR 34035264 
+mallocing new pointer 34035264 
+mallocing new pointer 34035232 
+mallocing new pointer 34035296 
+mallocing new pointer 34035328 
+objs sart, end, capacity 4 5 0 
+objs sart, end, capacity 5 6 0 
+here + 4 6 
+r1c1 34035264 r1c2 34035296 r2c1 34035232 r2c2 34035328 
+here + 3 6 
+r1c1 34035136 r1c2 34035168 r2c1 34035104 r2c2 34035200 
+here + 0 6 
+r1c1 35252912 r1c2 34035040 r2c1 35301680 r2c2 34035072 
+objs sart, end, capacity 6 12 4030 
+KRSP 35188400 
+curlasrow when first alloced 35252912 
+CLR 35252912 
+KRSP 35220656 
+curlasrow when first alloced 35252912 
+CLR 35252912 
+mallocing new pointer 34035104 
+mallocing new pointer 34035168 
+mallocing new pointer 35252912 
+mallocing new pointer 35285168 
+objs sart, end, capacity 6 9 0 
+KRSP 34035104 
+curlasrow when first alloced 34035200 
+CLR 34035200 
+KRSP 34035168 
+curlasrow when first alloced 34035040 
+CLR 34035040 
+mallocing new pointer 34035040 
+mallocing new pointer 34035200 
+mallocing new pointer 34035136 
+mallocing new pointer 34035328 
+objs sart, end, capacity 6 7 0 
+objs sart, end, capacity 7 9 0 
+KRSP 34035136 
+curlasrow when first alloced 34035072 
+CLR 34035072 
+KRSP 34035328 
+curlasrow when first alloced 34035360 
+CLR 34035360 
+mallocing new pointer 34035360 
+mallocing new pointer 34035072 
+mallocing new pointer 34035232 
+mallocing new pointer 34035296 
+objs sart, end, capacity 7 8 0 
+objs sart, end, capacity 8 9 0 
+here + 7 9 
+r1c1 34035360 r1c2 34035232 r2c1 34035072 r2c2 34035296 
+here + 6 9 
+r1c1 34035040 r1c2 34035136 r2c1 34035200 r2c2 34035328 
+objs sart, end, capacity 9 12 4030 
+KRSP 35252912 
+curlasrow when first alloced 35317424 
+CLR 35317424 
+KRSP 35285168 
+curlasrow when first alloced 35317424 
+CLR 35317424 
+mallocing new pointer 35317424 
+mallocing new pointer 35333472 
+mallocing new pointer 35349520 
+mallocing new pointer 35365760 
+objs sart, end, capacity 9 10 2003 
+objs sart, end, capacity 10 12 2027 
+KRSP 35349520 
+curlasrow when first alloced 35382000 
+CLR 35382000 
+KRSP 35365760 
+curlasrow when first alloced 35382000 
+CLR 35382000 
+mallocing new pointer 34035136 
+mallocing new pointer 34035040 
+mallocing new pointer 35382000 
+mallocing new pointer 35398240 
+objs sart, end, capacity 10 11 0 
+objs sart, end, capacity 11 12 2027 
+here + 10 12 
+r1c1 34035136 r1c2 35382000 r2c1 34035040 r2c2 35398240 
+here + 9 12 
+r1c1 35317424 r1c2 35349520 r2c1 35333472 r2c2 35365760 
+here + 6 12 
+r1c1 34035104 r1c2 35252912 r2c1 34035168 r2c2 35285168 
+here + 0 12 
+r1c1 35090864 r1c2 35188400 r2c1 35139632 r2c2 35220656 
+objs sart, end, capacity 12 25 14249 
+KRSP 34862832 
+curlasrow when first alloced 35090864 
+CLR 35090864 
+KRSP 34976848 
+curlasrow when first alloced 35090864 
+CLR 35090864 
+mallocing new pointer 35090864 
+mallocing new pointer 35156096 
+mallocing new pointer 35221328 
+mallocing new pointer 35270128 
+objs sart, end, capacity 12 18 8152 
+KRSP 35090864 
+curlasrow when first alloced 35318928 
+CLR 35318928 
+KRSP 35156096 
+curlasrow when first alloced 35318928 
+CLR 35318928 
+mallocing new pointer 35318928 
+mallocing new pointer 35367696 
+mallocing new pointer 35416464 
+mallocing new pointer 35432944 
+objs sart, end, capacity 12 15 6094 
+KRSP 35318928 
+curlasrow when first alloced 35449424 
+CLR 35449424 
+KRSP 35367696 
+curlasrow when first alloced 35449424 
+CLR 35449424 
+mallocing new pointer 35449424 
+mallocing new pointer 35465648 
+mallocing new pointer 35481872 
+mallocing new pointer 35514432 
+objs sart, end, capacity 12 13 2026 
+objs sart, end, capacity 13 15 4068 
+KRSP 35481872 
+curlasrow when first alloced 35546992 
+CLR 35546992 
+KRSP 35514432 
+curlasrow when first alloced 35546992 
+CLR 35546992 
+mallocing new pointer 35546992 
+mallocing new pointer 35563440 
+mallocing new pointer 35579888 
+mallocing new pointer 35596032 
+objs sart, end, capacity 13 14 2053 
+objs sart, end, capacity 14 15 2015 
+here + 13 15 
+r1c1 35546992 r1c2 35579888 r2c1 35563440 r2c2 35596032 
+here + 12 15 
+r1c1 35449424 r1c2 35481872 r2c1 35465648 r2c2 35514432 
+objs sart, end, capacity 15 18 2058 
+KRSP 35416464 
+curlasrow when first alloced 35449424 
+CLR 35449424 
+KRSP 35432944 
+curlasrow when first alloced 35449424 
+CLR 35449424 
+mallocing new pointer 35449424 
+mallocing new pointer 35465904 
+mallocing new pointer 34035040 
+mallocing new pointer 34035136 
+objs sart, end, capacity 15 16 2058 
+objs sart, end, capacity 16 18 0 
+KRSP 34035040 
+curlasrow when first alloced 34035328 
+CLR 34035328 
+KRSP 34035136 
+curlasrow when first alloced 34035168 
+CLR 34035168 
+mallocing new pointer 34035328 
+mallocing new pointer 34035104 
+mallocing new pointer 34035296 
+mallocing new pointer 34035072 
+objs sart, end, capacity 16 17 0 
+objs sart, end, capacity 17 18 0 
+here + 16 18 
+r1c1 34035328 r1c2 34035296 r2c1 34035104 r2c2 34035072 
+here + 15 18 
+r1c1 35449424 r1c2 34035040 r2c1 35465904 r2c2 34035136 
+here + 12 18 
+r1c1 35318928 r1c2 35416464 r2c1 35367696 r2c2 35432944 
+objs sart, end, capacity 18 25 6097 
+KRSP 35221328 
+curlasrow when first alloced 35318928 
+CLR 35318928 
+KRSP 35270128 
+curlasrow when first alloced 35318928 
+CLR 35318928 
+mallocing new pointer 35318928 
+mallocing new pointer 35334976 
+mallocing new pointer 35351024 
+mallocing new pointer 35383792 
+objs sart, end, capacity 18 21 2003 
+KRSP 35318928 
+curlasrow when first alloced 35416560 
+CLR 35416560 
+KRSP 35334976 
+curlasrow when first alloced 35416560 
+CLR 35416560 
+mallocing new pointer 34035072 
+mallocing new pointer 34035104 
+mallocing new pointer 35416560 
+mallocing new pointer 35432608 
+objs sart, end, capacity 18 19 0 
+objs sart, end, capacity 19 21 2003 
+KRSP 35416560 
+curlasrow when first alloced 35448656 
+CLR 35448656 
+KRSP 35432608 
+curlasrow when first alloced 35448656 
+CLR 35448656 
+mallocing new pointer 34035296 
+mallocing new pointer 34035328 
+mallocing new pointer 35448656 
+mallocing new pointer 35464704 
+objs sart, end, capacity 19 20 0 
+objs sart, end, capacity 20 21 2003 
+here + 19 21 
+r1c1 34035296 r1c2 35448656 r2c1 34035328 r2c2 35464704 
+here + 18 21 
+r1c1 34035072 r1c2 35416560 r2c1 34035104 r2c2 35432608 
+objs sart, end, capacity 21 25 4094 
+KRSP 35351024 
+curlasrow when first alloced 35416560 
+CLR 35416560 
+KRSP 35383792 
+curlasrow when first alloced 35416560 
+CLR 35416560 
+mallocing new pointer 35416560 
+mallocing new pointer 35432896 
+mallocing new pointer 35449232 
+mallocing new pointer 35465696 
+objs sart, end, capacity 21 23 2039 
+KRSP 35416560 
+curlasrow when first alloced 35482160 
+CLR 35482160 
+KRSP 35432896 
+curlasrow when first alloced 35482160 
+CLR 35482160 
+mallocing new pointer 35482160 
+mallocing new pointer 35498496 
+mallocing new pointer 34035104 
+mallocing new pointer 34035072 
+objs sart, end, capacity 21 22 2039 
+objs sart, end, capacity 22 23 0 
+here + 21 23 
+r1c1 35482160 r1c2 34035104 r2c1 35498496 r2c2 34035072 
+objs sart, end, capacity 23 25 2055 
+KRSP 35449232 
+curlasrow when first alloced 35482160 
+CLR 35482160 
+KRSP 35465696 
+curlasrow when first alloced 35482160 
+CLR 35482160 
+mallocing new pointer 35482160 
+mallocing new pointer 35498624 
+mallocing new pointer 34035072 
+mallocing new pointer 34035104 
+objs sart, end, capacity 23 24 2055 
+objs sart, end, capacity 24 25 0 
+here + 23 25 
+r1c1 35482160 r1c2 34035072 r2c1 35498624 r2c2 34035104 
+here + 21 25 
+r1c1 35416560 r1c2 35449232 r2c1 35432896 r2c2 35465696 
+here + 18 25 
+r1c1 35318928 r1c2 35351024 r2c1 35334976 r2c2 35383792 
+here + 12 25 
+r1c1 35090864 r1c2 35221328 r2c1 35156096 r2c2 35270128 
+here + 0 25 
+r1c1 34700816 r1c2 34862832 r2c1 34781824 r2c2 34976848 
+objs sart, end, capacity 25 50 16170 
+KRSP 34442064 
+curlasrow when first alloced 34700816 
+CLR 34700816 
+KRSP 34571440 
+curlasrow when first alloced 34700816 
+CLR 34700816 
+mallocing new pointer 34700816 
+mallocing new pointer 34781744 
+mallocing new pointer 34862672 
+mallocing new pointer 34911152 
+objs sart, end, capacity 25 37 10113 
+KRSP 34700816 
+curlasrow when first alloced 34959632 
+CLR 34959632 
+KRSP 34781744 
+curlasrow when first alloced 34959632 
+CLR 34959632 
+mallocing new pointer 34959632 
+mallocing new pointer 34991904 
+mallocing new pointer 35024176 
+mallocing new pointer 35072848 
+objs sart, end, capacity 25 31 4032 
+KRSP 34959632 
+curlasrow when first alloced 35121520 
+CLR 35121520 
+KRSP 34991904 
+curlasrow when first alloced 35121520 
+CLR 35121520 
+mallocing new pointer 35121520 
+mallocing new pointer 35137744 
+mallocing new pointer 35153968 
+mallocing new pointer 35170032 
+objs sart, end, capacity 25 28 2026 
+KRSP 35121520 
+curlasrow when first alloced 35186096 
+CLR 35186096 
+KRSP 35137744 
+curlasrow when first alloced 35186096 
+CLR 35186096 
+mallocing new pointer 34035104 
+mallocing new pointer 34035072 
+mallocing new pointer 35186096 
+mallocing new pointer 35202320 
+objs sart, end, capacity 25 26 0 
+objs sart, end, capacity 26 28 2026 
+KRSP 35186096 
+curlasrow when first alloced 35218544 
+CLR 35218544 
+KRSP 35202320 
+curlasrow when first alloced 35218544 
+CLR 35218544 
+mallocing new pointer 35218544 
+mallocing new pointer 35234768 
+mallocing new pointer 34035328 
+mallocing new pointer 34035296 
+objs sart, end, capacity 26 27 2026 
+objs sart, end, capacity 27 28 0 
+here + 26 28 
+r1c1 35218544 r1c2 34035328 r2c1 35234768 r2c2 34035296 
+here + 25 28 
+r1c1 34035104 r1c2 35186096 r2c1 34035072 r2c2 35202320 
+objs sart, end, capacity 28 31 2006 
+KRSP 35153968 
+curlasrow when first alloced 35186096 
+CLR 35186096 
+KRSP 35170032 
+curlasrow when first alloced 35186096 
+CLR 35186096 
+mallocing new pointer 34035072 
+mallocing new pointer 34035104 
+mallocing new pointer 35186096 
+mallocing new pointer 35202160 
+objs sart, end, capacity 28 29 0 
+objs sart, end, capacity 29 31 2006 
+KRSP 35186096 
+curlasrow when first alloced 35218224 
+CLR 35218224 
+KRSP 35202160 
+curlasrow when first alloced 35218224 
+CLR 35218224 
+mallocing new pointer 34035296 
+mallocing new pointer 34035328 
+mallocing new pointer 35218224 
+mallocing new pointer 35234288 
+objs sart, end, capacity 29 30 0 
+objs sart, end, capacity 30 31 2006 
+here + 29 31 
+r1c1 34035296 r1c2 35218224 r2c1 34035328 r2c2 35234288 
+here + 28 31 
+r1c1 34035072 r1c2 35186096 r2c1 34035104 r2c2 35202160 
+here + 25 31 
+r1c1 35121520 r1c2 35153968 r2c1 35137744 r2c2 35170032 
+objs sart, end, capacity 31 37 6081 
+KRSP 35024176 
+curlasrow when first alloced 35121520 
+CLR 35121520 
+KRSP 35072848 
+curlasrow when first alloced 35121520 
+CLR 35121520 
+mallocing new pointer 35121520 
+mallocing new pointer 35170192 
+mallocing new pointer 34035104 
+mallocing new pointer 34035072 
+objs sart, end, capacity 31 34 6081 
+KRSP 35121520 
+curlasrow when first alloced 35218864 
+CLR 35218864 
+KRSP 35170192 
+curlasrow when first alloced 35218864 
+CLR 35218864 
+mallocing new pointer 35218864 
+mallocing new pointer 35235088 
+mallocing new pointer 35251312 
+mallocing new pointer 35283776 
+objs sart, end, capacity 31 32 2025 
+objs sart, end, capacity 32 34 4056 
+KRSP 35251312 
+curlasrow when first alloced 35316240 
+CLR 35316240 
+KRSP 35283776 
+curlasrow when first alloced 35316240 
+CLR 35316240 
+mallocing new pointer 35316240 
+mallocing new pointer 35332416 
+mallocing new pointer 35348592 
+mallocing new pointer 35364896 
+objs sart, end, capacity 32 33 2020 
+objs sart, end, capacity 33 34 2036 
+here + 32 34 
+r1c1 35316240 r1c2 35348592 r2c1 35332416 r2c2 35364896 
+here + 31 34 
+r1c1 35218864 r1c2 35251312 r2c1 35235088 r2c2 35283776 
+objs sart, end, capacity 34 37 0 
+KRSP 34035104 
+curlasrow when first alloced 34035040 
+CLR 34035040 
+KRSP 34035072 
+curlasrow when first alloced 34035136 
+CLR 34035136 
+mallocing new pointer 34035136 
+mallocing new pointer 34035040 
+mallocing new pointer 34035328 
+mallocing new pointer 34035296 
+objs sart, end, capacity 34 35 0 
+objs sart, end, capacity 35 37 0 
+KRSP 34035328 
+curlasrow when first alloced 34035168 
+CLR 34035168 
+KRSP 34035296 
+curlasrow when first alloced 34035200 
+CLR 34035200 
+mallocing new pointer 34035200 
+mallocing new pointer 34035168 
+mallocing new pointer 34035232 
+mallocing new pointer 34035360 
+objs sart, end, capacity 35 36 0 
+objs sart, end, capacity 36 37 0 
+here + 35 37 
+r1c1 34035200 r1c2 34035232 r2c1 34035168 r2c2 34035360 
+here + 34 37 
+r1c1 34035136 r1c2 34035328 r2c1 34035040 r2c2 34035296 
+here + 31 37 
+r1c1 35121520 r1c2 34035104 r2c1 35170192 r2c2 34035072 
+here + 25 37 
+r1c1 34959632 r1c2 35024176 r2c1 34991904 r2c2 35072848 
+objs sart, end, capacity 37 50 6057 
+KRSP 34862672 
+curlasrow when first alloced 34959632 
+CLR 34959632 
+KRSP 34911152 
+curlasrow when first alloced 34959632 
+CLR 34959632 
+mallocing new pointer 34035328 
+mallocing new pointer 34035136 
+mallocing new pointer 34959632 
+mallocing new pointer 35008112 
+objs sart, end, capacity 37 43 0 
+KRSP 34035328 
+curlasrow when first alloced 34035296 
+CLR 34035296 
+KRSP 34035136 
+curlasrow when first alloced 34035040 
+CLR 34035040 
+mallocing new pointer 34035040 
+mallocing new pointer 34035296 
+mallocing new pointer 34035360 
+mallocing new pointer 34035168 
+objs sart, end, capacity 37 40 0 
+KRSP 34035040 
+curlasrow when first alloced 34035072 
+CLR 34035072 
+KRSP 34035296 
+curlasrow when first alloced 34035104 
+CLR 34035104 
+mallocing new pointer 34035104 
+mallocing new pointer 34035072 
+mallocing new pointer 34035232 
+mallocing new pointer 34035200 
+objs sart, end, capacity 37 38 0 
+objs sart, end, capacity 38 40 0 
+KRSP 34035232 
+curlasrow when first alloced 34035392 
+CLR 34035392 
+KRSP 34035200 
+curlasrow when first alloced 34035424 
+CLR 34035424 
+mallocing new pointer 34035424 
+mallocing new pointer 34035392 
+mallocing new pointer 34035264 
+mallocing new pointer 34035456 
+objs sart, end, capacity 38 39 0 
+objs sart, end, capacity 39 40 0 
+here + 38 40 
+r1c1 34035424 r1c2 34035264 r2c1 34035392 r2c2 34035456 
+here + 37 40 
+r1c1 34035104 r1c2 34035232 r2c1 34035072 r2c2 34035200 
+objs sart, end, c

@@ -1,0 +1,654 @@
+The number of objects is 50, and the capacity is 40542.
+objs sart, end, capacity 0 50 40542 
+KRSP -2120286192 
+curlasrow when first alloced -2121080816 
+KRSP -2120753136 
+curlasrow when first alloced 24164336 
+objs sart, end, capacity 0 25 24372 
+KRSP 24164336 
+curlasrow when first alloced 24813072 
+KRSP 24359328 
+curlasrow when first alloced 24813072 
+objs sart, end, capacity 0 12 10123 
+KRSP 24813072 
+curlasrow when first alloced 25203120 
+KRSP 24894080 
+curlasrow when first alloced 25203120 
+objs sart, end, capacity 0 6 6093 
+KRSP 25203120 
+curlasrow when first alloced 25365168 
+KRSP 25251888 
+curlasrow when first alloced 25365168 
+objs sart, end, capacity 0 3 6093 
+KRSP 25365168 
+curlasrow when first alloced 25462704 
+KRSP 25413936 
+curlasrow when first alloced 25462704 
+objs sart, end, capacity 0 1 2022 
+objs sart, end, capacity 1 3 4071 
+KRSP 25495088 
+curlasrow when first alloced 25560272 
+KRSP 25527680 
+curlasrow when first alloced 25560272 
+objs sart, end, capacity 1 2 2024 
+objs sart, end, capacity 2 3 2047 
+getting out + 1 3 
+r1c1 25560272 r1c2 25592688 r2c1 25576480 r2c2 25609088 
+getting out + 0 3 
+r1c1 25462704 r1c2 25495088 r2c1 25478896 r2c2 25527680 
+objs sart, end, capacity 3 6 0 
+KRSP 24147296 
+curlasrow when first alloced 24147360 
+KRSP 24147328 
+curlasrow when first alloced 24147392 
+objs sart, end, capacity 3 4 0 
+objs sart, end, capacity 4 6 0 
+KRSP 24147424 
+curlasrow when first alloced 24147488 
+KRSP 24147456 
+curlasrow when first alloced 24147520 
+objs sart, end, capacity 4 5 0 
+objs sart, end, capacity 5 6 0 
+getting out + 4 6 
+r1c1 24147520 r1c2 24147552 r2c1 24147488 r2c2 24147584 
+getting out + 3 6 
+r1c1 24147392 r1c2 24147424 r2c1 24147360 r2c2 24147456 
+getting out + 0 6 
+r1c1 25365168 r1c2 24147296 r2c1 25413936 r2c2 24147328 
+objs sart, end, capacity 6 12 4030 
+KRSP 25300656 
+curlasrow when first alloced 25365168 
+KRSP 25332912 
+curlasrow when first alloced 25365168 
+objs sart, end, capacity 6 9 0 
+KRSP 24147360 
+curlasrow when first alloced 24147456 
+KRSP 24147424 
+curlasrow when first alloced 24147296 
+objs sart, end, capacity 6 7 0 
+objs sart, end, capacity 7 9 0 
+KRSP 24147392 
+curlasrow when first alloced 24147328 
+KRSP 24147584 
+curlasrow when first alloced 24147616 
+objs sart, end, capacity 7 8 0 
+objs sart, end, capacity 8 9 0 
+getting out + 7 9 
+r1c1 24147616 r1c2 24147488 r2c1 24147328 r2c2 24147552 
+getting out + 6 9 
+r1c1 24147296 r1c2 24147392 r2c1 24147456 r2c2 24147584 
+objs sart, end, capacity 9 12 4030 
+KRSP 25365168 
+curlasrow when first alloced 25429680 
+KRSP 25397424 
+curlasrow when first alloced 25429680 
+objs sart, end, capacity 9 10 2003 
+objs sart, end, capacity 10 12 2027 
+KRSP 25461776 
+curlasrow when first alloced 25494256 
+KRSP 25478016 
+curlasrow when first alloced 25494256 
+objs sart, end, capacity 10 11 0 
+objs sart, end, capacity 11 12 2027 
+getting out + 10 12 
+r1c1 24147392 r1c2 25494256 r2c1 24147296 r2c2 25510496 
+getting out + 9 12 
+r1c1 25429680 r1c2 25461776 r2c1 25445728 r2c2 25478016 
+getting out + 6 12 
+r1c1 24147360 r1c2 25365168 r2c1 24147424 r2c2 25397424 
+getting out + 0 12 
+r1c1 25203120 r1c2 25300656 r2c1 25251888 r2c2 25332912 
+objs sart, end, capacity 12 25 14249 
+KRSP 24975088 
+curlasrow when first alloced 25203120 
+KRSP 25089104 
+curlasrow when first alloced 25203120 
+objs sart, end, capacity 12 18 8152 
+KRSP 25203120 
+curlasrow when first alloced 25431184 
+KRSP 25268352 
+curlasrow when first alloced 25431184 
+objs sart, end, capacity 12 15 6094 
+KRSP 25431184 
+curlasrow when first alloced 25561680 
+KRSP 25479952 
+curlasrow when first alloced 25561680 
+objs sart, end, capacity 12 13 2026 
+objs sart, end, capacity 13 15 4068 
+KRSP 25594128 
+curlasrow when first alloced 25659248 
+KRSP 25626688 
+curlasrow when first alloced 25659248 
+objs sart, end, capacity 13 14 2053 
+objs sart, end, capacity 14 15 2015 
+getting out + 13 15 
+r1c1 25659248 r1c2 25692144 r2c1 25675696 r2c2 25708288 
+getting out + 12 15 
+r1c1 25561680 r1c2 25594128 r2c1 25577904 r2c2 25626688 
+objs sart, end, capacity 15 18 2058 
+KRSP 25528720 
+curlasrow when first alloced 25561680 
+KRSP 25545200 
+curlasrow when first alloced 25561680 
+objs sart, end, capacity 15 16 2058 
+objs sart, end, capacity 16 18 0 
+KRSP 24147296 
+curlasrow when first alloced 24147584 
+KRSP 24147392 
+curlasrow when first alloced 24147424 
+objs sart, end, capacity 16 17 0 
+objs sart, end, capacity 17 18 0 
+getting out + 16 18 
+r1c1 24147584 r1c2 24147552 r2c1 24147360 r2c2 24147328 
+getting out + 15 18 
+r1c1 25561680 r1c2 24147296 r2c1 25578160 r2c2 24147392 
+getting out + 12 18 
+r1c1 25431184 r1c2 25528720 r2c1 25479952 r2c2 25545200 
+objs sart, end, capacity 18 25 6097 
+KRSP 25333584 
+curlasrow when first alloced 25431184 
+KRSP 25382384 
+curlasrow when first alloced 25431184 
+objs sart, end, capacity 18 21 2003 
+KRSP 25431184 
+curlasrow when first alloced 25528816 
+KRSP 25447232 
+curlasrow when first alloced 25528816 
+objs sart, end, capacity 18 19 0 
+objs sart, end, capacity 19 21 2003 
+KRSP 25528816 
+curlasrow when first alloced 25560912 
+KRSP 25544864 
+curlasrow when first alloced 25560912 
+objs sart, end, capacity 19 20 0 
+objs sart, end, capacity 20 21 2003 
+getting out + 19 21 
+r1c1 24147552 r1c2 25560912 r2c1 24147584 r2c2 25576960 
+getting out + 18 21 
+r1c1 24147328 r1c2 25528816 r2c1 24147360 r2c2 25544864 
+objs sart, end, capacity 21 25 4094 
+KRSP 25463280 
+curlasrow when first alloced 25528816 
+KRSP 25496048 
+curlasrow when first alloced 25528816 
+objs sart, end, capacity 21 23 2039 
+KRSP 25528816 
+curlasrow when first alloced 25594416 
+KRSP 25545152 
+curlasrow when first alloced 25594416 
+objs sart, end, capacity 21 22 2039 
+objs sart, end, capacity 22 23 0 
+getting out + 21 23 
+r1c1 25594416 r1c2 24147360 r2c1 25610752 r2c2 24147328 
+objs sart, end, capacity 23 25 2055 
+KRSP 25561488 
+curlasrow when first alloced 25594416 
+KRSP 25577952 
+curlasrow when first alloced 25594416 
+objs sart, end, capacity 23 24 2055 
+objs sart, end, capacity 24 25 0 
+getting out + 23 25 
+r1c1 25594416 r1c2 24147328 r2c1 25610880 r2c2 24147360 
+getting out + 21 25 
+r1c1 25528816 r1c2 25561488 r2c1 25545152 r2c2 25577952 
+getting out + 18 25 
+r1c1 25431184 r1c2 25463280 r2c1 25447232 r2c2 25496048 
+getting out + 12 25 
+r1c1 25203120 r1c2 25333584 r2c1 25268352 r2c2 25382384 
+getting out + 0 25 
+r1c1 24813072 r1c2 24975088 r2c1 24894080 r2c2 25089104 
+objs sart, end, capacity 25 50 16170 
+KRSP 24554320 
+curlasrow when first alloced 24813072 
+KRSP 24683696 
+curlasrow when first alloced 24813072 
+objs sart, end, capacity 25 37 10113 
+KRSP 24813072 
+curlasrow when first alloced 25071888 
+KRSP 24894000 
+curlasrow when first alloced 25071888 
+objs sart, end, capacity 25 31 4032 
+KRSP 25071888 
+curlasrow when first alloced 25233776 
+KRSP 25104160 
+curlasrow when first alloced 25233776 
+objs sart, end, capacity 25 28 2026 
+KRSP 25233776 
+curlasrow when first alloced 25298352 
+KRSP 25250000 
+curlasrow when first alloced 25298352 
+objs sart, end, capacity 25 26 0 
+objs sart, end, capacity 26 28 2026 
+KRSP 25298352 
+curlasrow when first alloced 25330800 
+KRSP 25314576 
+curlasrow when first alloced 25330800 
+objs sart, end, capacity 26 27 2026 
+objs sart, end, capacity 27 28 0 
+getting out + 26 28 
+r1c1 25330800 r1c2 24147584 r2c1 25347024 r2c2 24147552 
+getting out + 25 28 
+r1c1 24147360 r1c2 25298352 r2c1 24147328 r2c2 25314576 
+objs sart, end, capacity 28 31 2006 
+KRSP 25266224 
+curlasrow when first alloced 25298352 
+KRSP 25282288 
+curlasrow when first alloced 25298352 
+objs sart, end, capacity 28 29 0 
+objs sart, end, capacity 29 31 2006 
+KRSP 25298352 
+curlasrow when first alloced 25330480 
+KRSP 25314416 
+curlasrow when first alloced 25330480 
+objs sart, end, capacity 29 30 0 
+objs sart, end, capacity 30 31 2006 
+getting out + 29 31 
+r1c1 24147552 r1c2 25330480 r2c1 24147584 r2c2 25346544 
+getting out + 28 31 
+r1c1 24147328 r1c2 25298352 r2c1 24147360 r2c2 25314416 
+getting out + 25 31 
+r1c1 25233776 r1c2 25266224 r2c1 25250000 r2c2 25282288 
+objs sart, end, capacity 31 37 6081 
+KRSP 25136432 
+curlasrow when first alloced 25233776 
+KRSP 25185104 
+curlasrow when first alloced 25233776 
+objs sart, end, capacity 31 34 6081 
+KRSP 2523377The number of objects is 50, and the capacity is 40542.
+objs sart, end, capacity 0 50 40542 
+KRSP 124317712 
+curlasrow when first alloced 123523088 
+KRSP 123850768 
+curlasrow when first alloced 38565872 
+objs sart, end, capacity 0 25 24372 
+KRSP 38565872 
+curlasrow when first alloced 39214608 
+KRSP 38760864 
+curlasrow when first alloced 39214608 
+objs sart, end, capacity 0 12 10123 
+KRSP 39214608 
+curlasrow when first alloced 39604656 
+KRSP 39295616 
+curlasrow when first alloced 39604656 
+objs sart, end, capacity 0 6 6093 
+KRSP 39604656 
+curlasrow when first alloced 39766704 
+KRSP 39653424 
+curlasrow when first alloced 39766704 
+objs sart, end, capacity 0 3 6093 
+KRSP 39766704 
+curlasrow when first alloced 39864240 
+KRSP 39815472 
+curlasrow when first alloced 39864240 
+objs sart, end, capacity 0 1 2022 
+objs sart, end, capacity 1 3 4071 
+KRSP 39896624 
+curlasrow when first alloced 39961808 
+KRSP 39929216 
+curlasrow when first alloced 39961808 
+objs sart, end, capacity 1 2 2024 
+objs sart, end, capacity 2 3 2047 
+getting out + 1 3 
+r1c1 39961808 r1c2 39994224 r2c1 39978016 r2c2 40010624 
+getting out + 0 3 
+r1c1 39864240 r1c2 39896624 r2c1 39880432 r2c2 39929216 
+objs sart, end, capacity 3 6 0 
+KRSP 38548832 
+curlasrow when first alloced 38548896 
+KRSP 38548864 
+curlasrow when first alloced 38548928 
+objs sart, end, capacity 3 4 0 
+objs sart, end, capacity 4 6 0 
+KRSP 38548960 
+curlasrow when first alloced 38549024 
+KRSP 38548992 
+curlasrow when first alloced 38549056 
+objs sart, end, capacity 4 5 0 
+objs sart, end, capacity 5 6 0 
+getting out + 4 6 
+r1c1 38549056 r1c2 38549088 r2c1 38549024 r2c2 38549120 
+getting out + 3 6 
+r1c1 38548928 r1c2 38548960 r2c1 38548896 r2c2 38548992 
+getting out + 0 6 
+r1c1 39766704 r1c2 38548832 r2c1 39815472 r2c2 38548864 
+objs sart, end, capacity 6 12 4030 
+KRSP 39702192 
+curlasrow when first alloced 39815472 
+KRSP 39734448 
+curlasrow when first alloced 39815472 
+objs sart, end, capacity 6 9 0 
+KRSP 38548832 
+curlasrow when first alloced 38548864 
+KRSP 38548992 
+curlasrow when first alloced 38549152 
+objs sart, end, capacity 6 7 0 
+objs sart, end, capacity 7 9 0 
+KRSP 38548896 
+curlasrow when first alloced 38549184 
+KRSP 38548960 
+curlasrow when first alloced 38549216 
+objs sart, end, capacity 7 8 0 
+objs sart, end, capacity 8 9 0 
+getting out + 7 9 
+r1c1 38549216 r1c2 38549120 r2c1 38549184 r2c2 38549024 
+getting out + 6 9 
+r1c1 38549152 r1c2 38548896 r2c1 38548864 r2c2 38548960 
+objs sart, end, capacity 9 12 4030 
+KRSP 39815472 
+curlasrow when first alloced 39912688 
+KRSP 39880432 
+curlasrow when first alloced 39912688 
+objs sart, end, capacity 9 10 2003 
+objs sart, end, capacity 10 12 2027 
+KRSP 39928736 
+curlasrow when first alloced 39978016 
+KRSP 39944976 
+curlasrow when first alloced 39978016 
+objs sart, end, capacity 10 11 0 
+objs sart, end, capacity 11 12 2027 
+getting out + 10 12 
+r1c1 38548960 r1c2 39978016 r2c1 38548864 r2c2 39994256 
+getting out + 9 12 
+r1c1 39847728 r1c2 39928736 r2c1 39912688 r2c2 39944976 
+getting out + 6 12 
+r1c1 38548832 r1c2 39815472 r2c1 38548992 r2c2 39880432 
+getting out + 0 12 
+r1c1 39604656 r1c2 39702192 r2c1 39653424 r2c2 39734448 
+objs sart, end, capacity 12 25 14249 
+KRSP 39376624 
+curlasrow when first alloced 39978016 
+KRSP 39490640 
+curlasrow when first alloced 39978016 
+objs sart, end, capacity 12 18 8152 
+KRSP 39880432 
+curlasrow when first alloced 40075616 
+KRSP 39653424 
+curlasrow when first alloced 40075616 
+objs sart, end, capacity 12 15 6094 
+KRSP 40075616 
+curlasrow when first alloced 40173152 
+KRSP 40124384 
+curlasrow when first alloced 40173152 
+objs sart, end, capacity 12 13 2026 
+objs sart, end, capacity 13 15 4068 
+KRSP 40189376 
+curlasrow when first alloced 40254496 
+KRSP 40221936 
+curlasrow when first alloced 40254496 
+objs sart, end, capacity 13 14 2053 
+objs sart, end, capacity 14 15 2015 
+getting out + 13 15 
+r1c1 40254496 r1c2 39945664 r2c1 40270944 r2c2 40287392 
+getting out + 12 15 
+r1c1 39735136 r1c2 40189376 r2c1 40173152 r2c2 40221936 
+objs sart, end, capacity 15 18 2058 
+KRSP 39815472 
+curlasrow when first alloced 40173152 
+KRSP 39718656 
+curlasrow when first alloced 40173152 
+objs sart, end, capacity 15 16 2058 
+objs sart, end, capacity 16 18 0 
+KRSP 38548992 
+curlasrow when first alloced 39863776 
+KRSP 38548864 
+curlasrow when first alloced 39863808 
+objs sart, end, capacity 16 17 0 
+objs sart, end, capacity 17 18 0 
+getting out + 16 18 
+r1c1 39863808 r1c2 38548896 r2c1 39863776 r2c2 38549024 
+getting out + 15 18 
+r1c1 40173152 r1c2 38548992 r2c1 40189632 r2c2 38548864 
+getting out + 12 18 
+r1c1 40075616 r1c2 39815472 r2c1 40124384 r2c2 39718656 
+objs sart, end, capacity 18 25 6097 
+KRSP 39978016 
+curlasrow when first alloced 40189632 
+KRSP 40026816 
+curlasrow when first alloced 40189632 
+objs sart, end, capacity 18 21 2003 
+KRSP 39945664 
+curlasrow when first alloced 40222400 
+KRSP 39718656 
+curlasrow when first alloced 40222400 
+objs sart, end, capacity 18 19 0 
+objs sart, end, capacity 19 21 2003 
+KRSP 40222400 
+curlasrow when first alloced 39815472 
+KRSP 40238448 
+curlasrow when first alloced 39815472 
+objs sart, end, capacity 19 20 0 
+objs sart, end, capacity 20 21 2003 
+getting out + 19 21 
+r1c1 39863776 r1c2 39815472 r2c1 38548896 r2c2 39831520 
+getting out + 18 21 
+r1c1 38548992 r1c2 40222400 r2c1 38549024 r2c2 40238448 
+objs sart, end, capacity 21 25 4094 
+KRSP 40124384 
+curlasrow when first alloced 40270944 
+KRSP 40189632 
+curlasrow when first alloced 40270944 
+objs sart, end, capacity 21 23 2039 
+KRSP 40222400 
+curlasrow when first alloced 40303872 
+KRSP 39815472 
+curlasrow when first alloced 40303872 
+objs sart, end, capacity 21 22 2039 
+objs sart, end, capacity 22 23 0 
+getting out + 21 23 
+r1c1 40303872 r1c2 38549024 r2c1 40320208 r2c2 38548896 
+objs sart, end, capacity 23 25 2055 
+KRSP 40270944 
+curlasrow when first alloced 40320208 
+KRSP 40287408 
+curlasrow when first alloced 40320208 
+objs sart, end, capacity 23 24 2055 
+objs sart, end, capacity 24 25 0 
+getting out + 23 25 
+r1c1 40320208 r1c2 38548896 r2c1 40336672 r2c2 38549024 
+getting out + 21 25 
+r1c1 40222400 r1c2 40270944 r2c1 39815472 r2c2 40287408 
+getting out + 18 25 
+r1c1 39945664 r1c2 40124384 r2c1 39718656 r2c2 40189632 
+getting out + 12 25 
+r1c1 39880432 r1c2 39978016 r2c1 39653424 r2c2 40026816 
+getting out + 0 25 
+r1c1 39214608 r1c2 39376624 r2c1 39295616 r2c2 39490640 
+objs sart, end, capacity 25 50 16170 
+KRSP 38955856 
+curlasrow when first alloced 39295616 
+KRSP 39085232 
+curlasrow when first alloced 39295616 
+objs sart, end, capacity 25 37 10113 
+KRSP 39653424 
+curlasrow when first alloced 39344096 
+KRSP 39978016 
+curlasrow when first alloced 39344096 
+objs sart, end, capacity 25 31 4032 
+KRSP 40189632 
+curlasrow when first alloced 39441440 
+KRSP 40270944 
+curlasrow when first alloced 39441440 
+objs sart, end, capacity 25 28 2026 
+KRSP 40058944 
+curlasrow when first alloced 39473568 
+KRSP 39815472 
+curlasrow when first alloced 39473568 
+objs sart, end, capacity 25 26 0 
+objs sart, end, capacity 26 28 2026 
+KRSP 39473568 
+curlasrow when first alloced 39506016 
+KRSP 39489792 
+curlasrow when first alloced 39506016 
+objs sart, end, capacity 26 27 2026 
+objs sart, end, capacity 27 28 0 
+getting out + 26 28 
+r1c1 39506016 r1c2 38549184 r2c1 39522240 r2c2 38549120 
+getting out + 25 28 
+r1c1 38549024 r1c2 39473568 r2c1 38548896 r2c2 39489792 
+objs sart, end, capacity 28 31 2006 
+KRSP 39441440 
+curlasrow when first alloced 39473568 
+KRSP 39457504 
+curlasrow when first alloced 39473568 
+objs sart, end, capacity 28 29 0 
+objs sart, end, capacity 29 31 2006 
+KRSP 39473568 
+curlasrow when first alloced 39522240 
+KRSP 39489632 
+curlasrow when first alloced 39522240 
+objs sart, end, capacity 29 30 0 
+objs sart, end, capacity 30 31 2006 
+getting out + 29 31 
+r1c1 38549184 r1c2 39522240 r2c1 38549088 r2c2 39538304 
+getting out + 28 31 
+r1c1 38548896 r1c2 39473568 r2c1 38549120 r2c2 39489632 
+getting out + 25 31 
+r1c1 40058944 r1c2 39441440 r2c1 39815472 r2c2 39457504 
+objs sart, end, capacity 31 37 6081 
+KRSP 39344096 
+curlasrow when first alloced 39441440 
+KRSP 39392768 
+curlasrow when first alloced 39441440 
+objs sart, end, capacity 31 34 6081 
+KRSP 39441440 
+curlasrow when first alloced 40336672 
+KRSP 39522240 
+curlasrow when first alloced 40336672 
+objs sart, end, capacity 31 32 2025 
+objs sart, end, capacity 32 34 4056 
+KRSP 40336672 
+curlasrow when first alloced 40401600 
+KRSP 40369136 
+curlasrow when first alloced 40401600 
+objs sart, end, capacity 32 33 2020 
+objs sart, end, capacity 33 34 2036 
+getting out + 32 34 
+r1c1 39587136 r1c2 40417776 r2c1 40401600 r2c2 40434080 
+getting out + 31 34 
+r1c1 39815472 r1c2 40336672 r2c1 39570912 r2c2 40369136 
+objs sart, end, capacity 34 37 0 
+KRSP 38549120 
+curlasrow when first alloced 38548864 
+KRSP 38549088 
+curlasrow when first alloced 39961712 
+objs sart, end, capacity 34 35 0 
+objs sart, end, capacity 35 37 0 
+KRSP 39961744 
+curlasrow when first alloced 40172864 
+KRSP 39961776 
+curlasrow when first alloced 40172896 
+objs sart, end, capacity 35 36 0 
+objs sart, end, capacity 36 37 0 
+getting out + 35 37 
+r1c1 40172896 r1c2 40172928 r2c1 40172864 r2c2 40172960 
+getting out + 34 37 
+r1c1 39961712 r1c2 39961744 r2c1 38548864 r2c2 39961776 
+getting out + 31 37 
+r1c1 39441440 r1c2 38549120 r2c1 39522240 r2c2 38549088 
+getting out + 25 37 
+r1c1 40189632 r1c2 39344096 r2c1 40270944 r2c2 39392768 
+objs sart, end, capacity 37 50 6057 
+KRSP 40124384 
+curlasrow when first alloced 39522240 
+KRSP 39295616 
+curlasrow when first alloced 39522240 
+objs sart, end, capacity 37 43 0 
+KRSP 38549120 
+curlasrow when first alloced 38549088 
+KRSP 39961776 
+curlasrow when first alloced 40172992 
+objs sart, end, capacity 37 40 0 
+KRSP 40172992 
+curlasrow when first alloced 40173024 
+KRSP 38549088 
+curlasrow when first alloced 40173056 
+objs sart, end, capacity 37 38 0 
+objs sart, end, capacity 38 40 0 
+KRSP 40172960 
+curlasrow when first alloced 40173088 
+KRSP 40172864 
+curlasrow when first alloced 40173120 
+objs sart, end, capacity 38 39 0 
+objs sart, end, capacity 39 40 0 
+getting out + 38 40 
+r1c1 40173120 r1c2 40172928 r2c1 40173088 r2c2 39863840 
+getting out + 37 40 
+r1c1 40173056 r1c2 40172960 r2c1 40173024 r2c2 40172864 
+objs sart, end, capacity 40 43 0 
+KRSP 38548864 
+curlasrow when first alloced 39863872 
+KRSP 39961744 
+curlasrow when first alloced 39863904 
+objs sart, end, capacity 40 41 0 
+objs sart, end, capacity 41 43 0 
+KRSP 40173024 
+curlasrow when first alloced 39863904 
+KRSP 40172960 
+curlasrow when first alloced 39863936 
+objs sart, end, capacity 41 42 0 
+objs sart, end, capacity 42 43 0 
+getting out + 41 43 
+r1c1 39863936 r1c2 39863840 r2c1 39863904 r2c2 40173088 
+getting out + 40 43 
+r1c1 39863872 r1c2 40173024 r2c1 40172864 r2c2 40172960 
+getting out + 37 43 
+r1c1 40172992 r1c2 38548864 r2c1 38549088 r2c2 39961744 
+objs sart, end, capacity 43 50 6057 
+KRSP 39522240 
+curlasrow when first alloced 39392576 
+KRSP 39344096 
+curlasrow when first alloced 39392576 
+objs sart, end, capacity 43 46 4050 
+KRSP 40270944 
+curlasrow when first alloced 40336672 
+KRSP 39392576 
+curlasrow when first alloced 40336672 
+objs sart, end, capacity 43 44 0 
+objs sart, end, capacity 44 46 4050 
+KRSP 40336672 
+curlasrow when first alloced 40401504 
+KRSP 40369088 
+curlasrow when first alloced 40401504 
+objs sart, end, capacity 44 45 2032 
+objs sart, end, capacity 45 46 2018 
+getting out + 44 46 
+r1c1 40401504 r1c2 40434048 r2c1 40417776 r2c2 40450208 
+getting out + 43 46 
+r1c1 40172960 r1c2 40336672 r2c1 40172864 r2c2 40369088 
+objs sart, end, capacity 46 50 2007 
+KRSP 39570720 
+curlasrow when first alloced 40336672 
+KRSP 39424992 
+curlasrow when first alloced 40336672 
+objs sart, end, capacity 46 48 0 
+KRSP 40172864 
+curlasrow when first alloced 39961744 
+KRSP 40173024 
+curlasrow when first alloced 39863968 
+objs sart, end, capacity 46 47 0 
+objs sart, end, capacity 47 48 0 
+getting out + 46 48 
+r1c1 39961744 r1c2 38549088 r2c1 38548864 r2c2 40173088 
+objs sart, end, capacity 48 50 2007 
+KRSP 40336672 
+curlasrow when first alloced 40368832 
+KRSP 40352752 
+curlasrow when first alloced 40368832 
+objs sart, end, capacity 48 49 2007 
+objs sart, end, capacity 49 50 0 
+getting out + 48 50 
+r1c1 40368832 r1c2 40173088 r2c1 40384912 r2c2 38548864 
+getting out + 46 50 
+r1c1 40172864 r1c2 40336672 r2c1 40173024 r2c2 40352752 
+getting out + 43 50 
+r1c1 40270944 r1c2 39570720 r2c1 39392576 r2c2 39424992 
+getting out + 37 50 
+r1c1 38549120 r1c2 39522240 r2c1 39961776 r2c2 39344096 
+getting out + 25 50 
+r1c1 39653424 r1c2 40124384 r2c1 39978016 r2c2 39295616 
+getting out + 0 50 
+r1c1 38565872 r1c2 38955856 r2c1 38760864 r2c2 39085232 
+The optimal profit is 41152 
+
+Solution vector is: 1 1 1 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 1 1 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 
+ 
